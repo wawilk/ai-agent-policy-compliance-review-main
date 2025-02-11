@@ -1,0 +1,55 @@
+   
+1. Consistency of Terms    
+   • Definition: Every defined term used in the Underlier must also appear in the master exactly as worded.    
+   • Relevant Section(s): LIMITS OF LIABILITY, DEFINITIONS, POLICY CHANGE ENDORSEMENT (terms are denoted as lowercase bold text).    
+   • Criteria: Non-conformance occurs if the Underlier defines a term not present in the master or if there is any discrepancy in wording.  
+   
+2. Duplicate Coverages    
+   • Definition: A coverage should not be listed more than once within a policy.    
+   • Relevant Section(s): LIMITS OF LIABILITY
+   • Criteria: Duplicate entries in either policy flag non-conformance.  
+   
+3. Section Duplication    
+   • Definition: No clause should appear more than once in any given section.    
+   • Relevant Section(s): All sections    
+   • Criteria: Identify and flag any duplicated clauses.  
+   
+4. Currency Consistency    
+   • Definition: The currency used in the Underlier policy must match the policy currency defined in the Country Sheets.    
+   • Relevant Section(s): Any section that includes a currency amount.    
+   • Criteria: Non-conformance is flagged if either policy uses a currency that is not specified in the country-specific currency notes.  
+   
+5. Per Location References    
+   • Definition: If the master policy includes “per location” references, the Underlier must also include them in the corresponding clauses.    
+   • Relevant Section(s): LIMITS OF LIABILITY
+   • Criteria: If “per location” is present in the master but absent in the Underlier, the Underlier is non-conformant.  
+   
+6. Policy Dates    
+   • Definition: The dates in the Underlier policy must match those in the master policy.    
+   • Relevant Section(s): POLICY DATES 
+   • Criteria: Any mismatched dates (while accounting for any country-specific rules) render the Underlier non-conformant.  
+   
+7. Coverage Specificity    
+   • Definition: Specific references to locations and location types in the master policy must be carried over to the Underlier.    
+   • Relevant Section(s): Applicable Limits of Liability/Time Limits table
+   • Criteria: If a location detail is specified in the master but omitted in the Underlier, non-conformance is flagged.  
+   
+8. Table Comparison    
+   • Definition: The coverage values and limits listed in the Underlier must be equal to or less than those in the master policy.    
+   • Relevant Section(s): LIMITS OF LIABILITY 
+   • Criteria: If the Underlier includes coverages or amounts not specified or exceeding those in the master, it is non-conformant.  
+   
+9. High Hazard Zones    
+   • Definition: Coverage limits for high hazard zones must be enforced on both policies.    
+   • Relevant Section(s): LIMITS OF LIABILITY, DEFINITIONS  
+   • Criteria: If one policy addresses high hazard zones while the other does not, or if the Underlier’s limits exceed those of the master, flag non-conformance.  
+   
+10. Formatting Consistency    
+    • Definition: Both documents must exhibit consistent formatting, including fonts, numbering, and bullet points.    
+    • Relevant Section(s): All sections
+    • Criteria: Any inconsistency in formatting between the documents results in the Underlier being non-conformant.  
+   
+11. Addresses Checks    
+    • Definition: The address information must be identical across both policies.    
+    • Relevant Section(s): NAMED INSURED AND MAILING ADDRESS   
+    • Criteria: Any discrepancy in addresses is considered non-conformant. 

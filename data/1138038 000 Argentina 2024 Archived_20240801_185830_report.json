@@ -1,0 +1,25 @@
+{
+  "compliant": false,
+  "sections": [
+    {
+      "name": "DEFINITIONS",
+      "rule_violations": [
+        {
+          "rule_name": "Consistency of Terms",
+          "text": "Underlier definition – \"unsprinklered locations: any location with 0% sprinklers.\" vs. Master definition – \"unsprinklered locations: any location with no automatic fire protection sprinklers installed.\"",
+          "explanation": "The defined term ‘unsprinklered locations’ on the child policy does not exactly match the wording used by the master policy. Consistency of defined terms is required; using '0% sprinklers' instead of 'no automatic fire protection sprinklers installed' constitutes a discrepancy."
+        }
+      ]
+    },
+    {
+      "name": "NAMED INSURED AND MAILING ADDRESS",
+      "rule_violations": [
+        {
+          "rule_name": "Addresses Checks",
+          "text": "Underlier – 'Mendoza 1200, C1428 DJG, Buenos Aires, Argentina' vs. Master – 'One Acme Plaza, New Brunswick, New Jersey, United States of America'",
+          "explanation": "The address information in the child policy is inconsistent with that in the master policy. According to the compliance rules, the address information must be identical across both policies."
+        }
+      ]
+    }
+  ]
+}
